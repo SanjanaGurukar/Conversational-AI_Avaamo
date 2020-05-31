@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Conversational-AI_Avaamo/static/css/main.6c2f506b.chunk.css",
+    "main.js": "/Conversational-AI_Avaamo/static/js/main.6616f726.chunk.js",
+    "main.js.map": "/Conversational-AI_Avaamo/static/js/main.6616f726.chunk.js.map",
+    "runtime-main.js": "/Conversational-AI_Avaamo/static/js/runtime-main.043ecafd.js",
+    "runtime-main.js.map": "/Conversational-AI_Avaamo/static/js/runtime-main.043ecafd.js.map",
+    "static/js/2.465df07d.chunk.js": "/Conversational-AI_Avaamo/static/js/2.465df07d.chunk.js",
+    "static/js/2.465df07d.chunk.js.map": "/Conversational-AI_Avaamo/static/js/2.465df07d.chunk.js.map",
+    "index.html": "/Conversational-AI_Avaamo/index.html",
+    "precache-manifest.af10574e62cb76e0443338896ca0ae00.js": "/Conversational-AI_Avaamo/precache-manifest.af10574e62cb76e0443338896ca0ae00.js",
+    "service-worker.js": "/Conversational-AI_Avaamo/service-worker.js",
+    "static/css/main.6c2f506b.chunk.css.map": "/Conversational-AI_Avaamo/static/css/main.6c2f506b.chunk.css.map",
+    "static/js/2.465df07d.chunk.js.LICENSE.txt": "/Conversational-AI_Avaamo/static/js/2.465df07d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.043ecafd.js",
+    "static/js/2.465df07d.chunk.js",
+    "static/css/main.6c2f506b.chunk.css",
+    "static/js/main.6616f726.chunk.js"
+  ]
+}
